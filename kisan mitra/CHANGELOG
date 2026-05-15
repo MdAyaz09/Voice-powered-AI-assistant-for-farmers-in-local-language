@@ -1,0 +1,17 @@
+
+---
+
+### **2. CHANGELOG.md**
+```markdown
+# Changelog
+All notable changes to this project will be documented here.  
+This project follows [Keep a Changelog](https://keepachangelog.com/) and [Semantic Versioning](https://semver.org/).
+
+## [Unreleased]
+
+## [0.1.0] - 2025-09-03
+### Added
+- Initial release of **Kisan Mitra - AI Farming Assistant**.
+- Multilingual support (Hindi, English, Telugu).
+- Weather forecasts, crop price info, fertilizer advice.
+- Voice input support.

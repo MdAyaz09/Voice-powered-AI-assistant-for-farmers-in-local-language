@@ -1,0 +1,12 @@
+[project]
+name = "kisan-mitra"
+version = "0.1.0"
+requires-python = ">=3.9"
+
+dependencies = [
+    "streamlit",
+    "fpdf2",                 # modern replacement for fpdf
+    "matplotlib",
+    "langdetect",
+    "SpeechRecognition"      # note: correct PyPI name
+]
